@@ -1,43 +1,33 @@
+# 🎮 Number Guessing Game with Sound Effects
 
-# Number Guessing Game with Sound Effects
+This is a simple Python **Number Guessing Game** that lets players choose a difficulty level and rewards or encourages them with **sound effects** based on their guesses.
 
-This is a simple Python Number Guessing Game that lets players choose a difficulty level
-and rewards or encourages them with sound effects based on their guesses.
+---
 
-## Features
+## ✅ Features
 
-- Difficulty levels (Easy, Medium, Hard)
-- High score tracking in high_scores.txt
-- Fun correct and wrong sound effects
-- Cheer sound when the player wins
-- Input validation and hint system
+- 🟢 Difficulty levels (Easy, Medium, Hard)
+- 🟢 High score tracking in `high_scores.txt`
+- 🟢 Fun **correct** and **wrong** sound effects
+- 🟢 6-second **cheer sound** when the player wins
+- 🟢 Input validation and hint system
 
-## Files Included
+---
 
-- number_guessing_game_v2.py
-- play_call_test.py
-- sound_test.py
+## ✅ Files Included
 
-## Requirements
+| File Name                | Purpose                                                                 |
+|-------------------------|-------------------------------------------------------------------------|
+| `number_guessing_game_v2.py` | The final complete version of the game with sound effects and high scores. |
+| `play_call_test.py`          | A sound logic test script to ensure correct sound mapping.              |
+| `sound_test.py`              | A basic test script to verify that sound files load correctly.         |
+
+---
+
+## ✅ Requirements
 
 - Python 3.11 or higher
-- Pygame (pip install pygame)
-
-## How to Run the Game
-
-1. Clone this repo or download the files.
-2. Run 'python number_guessing_game_v2.py'
-
-## Development Process
-
-Initial issues with sound effects were solved using test scripts.
-
-## Future Improvements
-
-- GUI version
-- Multiplayer mode
-- Leaderboard
-
-## License
-
-MIT License.
+- Pygame library  
+  Install it with:
+  ```bash
+  pip install pygame
