@@ -31,3 +31,31 @@ This is a simple Python **Number Guessing Game** that lets players choose a diff
   Install it with:
   ```bash
   pip install pygame
+
+  
+## ✅ How to Run the Game
+
+### 🖥️ Run This Game Locally On Your Computer
+
+1. **Make sure you have Python 3.11 or higher installed.**  
+   You can download it from [https://www.python.org/downloads/](https://www.python.org/downloads/).
+
+2. **Clone or Download This Repository.**
+   - If you have Git installed, run:
+     ```bash
+     git clone https://github.com/yourusername/number-guessing-game.git
+     ```
+   - Or click **"Code" > "Download ZIP"** on this page and extract the files.
+
+3. **Open your terminal or command prompt.**
+   - Navigate to the project folder you just downloaded:
+     ```bash
+     cd number-guessing-game
+     ```
+
+4. **(Optional but Recommended) Create and Activate a Virtual Environment:**
+   ```bash
+   python -m venv venv
+   .\venv\Scripts\activate  # On Windows
+
+## Make sure the /sounds/ folder contains the sound files
