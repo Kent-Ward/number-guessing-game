@@ -57,5 +57,3 @@ This is a simple Python **Number Guessing Game** that lets players choose a diff
    ```bash
    python -m venv venv
    .\venv\Scripts\activate  # On Windows
-
-## Make sure the /sounds/ folder contains the sound files
