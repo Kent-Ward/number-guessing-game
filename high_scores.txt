@@ -2,3 +2,4 @@
 36.88 seconds - 7 attempts
 22.80 seconds - 5 attempts
 49.62 seconds - 6 attempts
+30.41 seconds - 7 attempts
