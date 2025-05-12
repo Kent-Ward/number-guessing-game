@@ -16,12 +16,15 @@ This is a simple Python **Number Guessing Game** that lets players choose a diff
 
 ## ✅ Files Included
 
-| File Path                 | Purpose                                                                 |
-|--------------------------|-------------------------------------------------------------------------|
-| `scripts/number_guessing_game_v2.py` | The final complete version of the game with sound effects and high scores. |
-| `scripts/play_call_test.py`          | A sound logic test script to ensure correct sound mapping.              |
-| `scripts/sound_test.py`              | A basic test script to verify that sound files load correctly.         |
-| `high_scores.txt`                   | Stores high scores achieved by players.                               |
+| File Path                                           | Purpose                                                                 |
+|----------------------------------------------------|-------------------------------------------------------------------------|
+| `number_guessing_game/scripts/number_guessing_game_v2.py` | Final version of the game with sound effects and high score tracking. |
+| `number_guessing_game/scripts/play_call_test.py`          | A test script to confirm correct sound file calls and mappings.       |
+| `number_guessing_game/scripts/sound_test.py`              | Verifies basic functionality of sound playback in Python.             |
+| `number_guessing_game/sounds/`                             | Folder containing sound files for game feedback.                      |
+| `number_guessing_game/high_scores.txt`                    | Stores high scores between sessions.                                   |
+| `number_guessing_game/README.md`                         | This project overview and documentation.                              |
+| `number_guessing_game/venv/`                             | Python virtual environment (not tracked by Git).   
 
 
 ---
