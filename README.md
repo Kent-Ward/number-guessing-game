@@ -1,20 +1,20 @@
-# 🎮 Number Guessing Game with Sound Effects
+# Number Guessing Game with Sound Effects
 
 This is a simple Python **Number Guessing Game** that lets players choose a difficulty level and rewards or encourages them with **sound effects** based on their guesses.
 
 ---
 
-## ✅ Features
+## Features
 
-- 🟢 Difficulty levels (Easy, Medium, Hard)
-- 🟢 High score tracking in `high_scores.txt`
-- 🟢 Fun **correct** and **wrong** sound effects
-- 🟢 6-second **cheer sound** when the player wins
-- 🟢 Input validation and hint system
+- Difficulty levels (Easy, Medium, Hard)
+- High score tracking in `high_scores.txt`
+- Fun **correct** and **wrong** sound effects
+- 6-second **cheer sound** when the player wins
+   Input validation and hint system
 
 ---
 
-## ✅ Files Included
+## Files Included
 
 | File Path                                           | Purpose                                                                 |
 |----------------------------------------------------|-------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ This is a simple Python **Number Guessing Game** that lets players choose a diff
 
 ---
 
-## ✅ Requirements
+## Requirements
 
 - Python 3.11 or higher
 - Pygame library  
@@ -38,9 +38,9 @@ This is a simple Python **Number Guessing Game** that lets players choose a diff
   pip install pygame
 
   
-## ✅ How to Run the Game
+## How to Run the Game
 
-### 🖥️ Run This Game Locally On Your Computer
+### Run This Game Locally On Your Computer
 
 1. **Make sure you have Python 3.11 or higher installed.**  
    You can download it from [https://www.python.org/downloads/](https://www.python.org/downloads/).
